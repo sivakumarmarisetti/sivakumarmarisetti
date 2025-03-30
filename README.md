@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm siva kumar</h1>
 <h3 align="center">A passionate software engineer from India</h3>
 
-- 🔭 I’m currently working on [My portfolio](https://msivakumar.in)
+- 🔭 I’m currently working on [My portfolio](https://www.msivakumar.in)
 
 - 🌱 I’m currently learning **DSA**
 
-- 👨‍💻 All of my projects are available at [msivakumar.in](msivakumar.in)
+- 👨‍💻 All of my projects are available at [msivakumar.in](https://www.msivakumar.in)
 
 - 📫 How to reach me **marisettisivakumar2000@gmail.com**
 
